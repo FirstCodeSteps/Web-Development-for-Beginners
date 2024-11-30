@@ -1,3 +1,39 @@
+# تطوير الويب للمبتدئين: خطة الدورة وخريطة الطريق
+
+> **Note**: The English version is below. [Click here to jump to the English text](#web-development-for-beginners-course-outline--roadmap)
+
+تم تصميم هذه الدورة للمبتدئين المتحمسين لاستكشاف تطوير الويب. على مدار 8 أسابيع، ستكتسب خبرة عملية مع تقنيات الويب الأساسية، بما في ذلك HTML، وCSS، وBootstrap، وJavaScript، وGit. بحلول نهاية الدورة، ستكون مؤهلاً لإنشاء مواقع ويب تفاعلية ومستجيبة، مع استخدام Git لإدارة الإصدارات والتعاون.
+
+---
+
+## خطة الدورة:
+
+1. **مقدمة في تطوير الويب**: الأساسيات، الأدوات، وإعداد البيئة.
+2. **تعلم Git**: مقدمة في إدارة الإصدارات، أوامر Git، واستخدام GitHub.
+3. **أساسيات HTML**: الهيكل، العناصر الدلالية، والنماذج.
+4. **أساسيات CSS**: التصميم، التنسيق، Flexbox، وGrid.
+5. **تصميم مستجيب باستخدام Bootstrap**: نظام الشبكة والمكونات.
+6. **أساسيات JavaScript**: الصياغة، التعامل مع DOM، والتفاعل.
+
+---
+
+## خريطة التعلم:
+
+- **الأسبوع 1**: مقدمة في تطوير الويب وبناء صفحة ويب أساسية.
+- **الأسبوع 2**: تعلم أساسيات Git: إدارة الإصدارات، أوامر Git، وإعداد GitHub Classroom.
+- **الأسبوع 3-4**: إتقان HTML لتنظيم المحتوى بشكل فعال.
+- **الأسبوع 5-6**: تصميم المحتوى بأسلوب جميل باستخدام CSS وتعلم التصميم المستجيب مع Bootstrap.
+- **الأسبوع 7-8**: إضافة التفاعل إلى مواقع الويب باستخدام JavaScript ومواصلة استخدام Git لإدارة إصدارات المشاريع.
+
+---
+
+### هل أنت مستعد لبدء رحلتك في تطوير الويب؟
+
+**سجل الآن وأنشئ أول موقع ويب لك خلال أسابيع قليلة!**  
+[اضغط هنا للتسجيل!](https://forms.gle/cmM1v7zbGpM8jzPx8)
+
+---
+
 # Web Development for Beginners: Course Outline & Roadmap
 
 This course is designed for beginners eager to explore web development. Over the course of 8 weeks, you will gain hands-on experience with essential web technologies, including HTML, CSS, Bootstrap, JavaScript, and Git. By the end of the course, you’ll be equipped to build responsive and interactive websites while using Git for version control and collaboration.
@@ -27,5 +63,5 @@ This course is designed for beginners eager to explore web development. Over the
 
 ### Ready to start your web development journey?
 
-**Sign up today and build your first website in just a few weeks!**
+**Sign up today and build your first website in just a few weeks!**  
 [Click here to sign up!](https://forms.gle/cmM1v7zbGpM8jzPx8)
